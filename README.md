@@ -7,7 +7,8 @@ Day-wise notes and exercises for becoming a GenAI inference, deployment, and res
 | Day | Topic | Status |
 |---:|---|---|
 | 1 | [PyTorch tensors, shapes, and autograd](day-01-tensors-shapes-autograd.md) | Completed |
-| 2 | [Tokenization, language-model data, and embeddings](day-02-tokenization-data-embeddings.md) | Ready |
+| 2 | [Tokenization, language-model data, and embeddings](day-02-tokenization-data-embeddings.md) | Completed |
+| 3 | [Building a decoder transformer block](day-03-transformer-block.md) | Ready |
 
 ## Additional notes
 
